@@ -1,5 +1,5 @@
 const allpayment = (prefix) => {
-return `PAYMENT BY ZEEONE OFC
+return `PAYMENT BY SKYZO
 
 *さ BANK*
 1. BRI 
@@ -19,7 +19,7 @@ return `PAYMENT BY ZEEONE OFC
 
 *さ PULSA*
 1. SMARTFREN
-	ㅁ 0887 4350 47326
+	ㅁ 0888 0589 0128
 2. TELKOMSEL
 	ㅁ 0821 9311 5723
 	
