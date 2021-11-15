@@ -1,4 +1,4 @@
-const petik = '```'
+const petik = '*'
 const help = (prefix, wita, wit, ucapannya2, timuu, status, wa_version, mcc, mnc, os_version, device_manufacturer, device_model, alfa , alfa1, thisDay, ini_tanggal, totalchat, hit_today, ini_gcchat, latensiii, tekss)=> {
 	return`┌❏ *INDONESIA TIME*
 ${petik}│◦➛ WIB : ${timuu}
@@ -11,7 +11,7 @@ ${petik}│◦➛${ucapannya2}
 │◦➛Hari : ${thisDay}
 └❏ Tanggal : ${ini_tanggal}${petik}
 
-┌❏ *DEVICE*
+┌❏ *DEVICE KAMU*
 ${petik}│◦➛Whatsapp : ${wa_version}
 │◦➛Merk HP : ${device_manufacturer}
 │◦➛Versi HP : ${device_model}
